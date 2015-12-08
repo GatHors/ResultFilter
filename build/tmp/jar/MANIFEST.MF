@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: org.cloudcomputing.postprocessing.ResultFilter
+Class-Path: /home/gathors/proj/v-opencv/ResultFilter/libs/opencv-2412.
+ jar
+
